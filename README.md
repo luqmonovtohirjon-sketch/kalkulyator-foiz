@@ -1,2 +1,0 @@
-# kalkulyator-foiz
-Foiz hisoblash
